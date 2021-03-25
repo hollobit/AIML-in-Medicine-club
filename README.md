@@ -22,3 +22,7 @@ We will cover the discussion topics as below:
 Follow the club to get alerts for upcoming events. Contact us if you have a proposal for future events.  If you want to join in host team also, contact us.  
 
 Moderator/Founder - Jonghong Jeon: @hollobit
+
+## 함께하면 좋은 club 
+* [Weekly arXiv 만담](https://github.com/jungwoo-ha/WeeklyArxivTalk) - [AI Korea club](https://www.joinclubhouse.com/club/ai-korea)
+* [AI 101 인공지능과 비즈니스 club](https://www.joinclubhouse.com/club/ai-101-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4)
