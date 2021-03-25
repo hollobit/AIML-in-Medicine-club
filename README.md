@@ -6,6 +6,8 @@
 
 좋은 제안이 있으면 언제든 pull request로 업데이트 해주세요
 
+* [2021/03/25 - 1st agenda](/20210325-1st-agenda.md) 
+
 ## Club 소개 
 
 Welcome! This club is all about the topics of AI/ML technology and applications in Healthcare and Bioinformatics.  We encourage open, candid discussions and debates. Please show your professionalism. 
