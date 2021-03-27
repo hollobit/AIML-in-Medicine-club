@@ -43,7 +43,7 @@ We will cover the discussion topics as below:
 
 Follow the club to get alerts for upcoming events. Contact us if you have a proposal for future events.  If you want to join in host team also, contact us.  
 
-Moderator/Founder - Jonghong Jeon: @hollobit
+Moderator/Founder - Jonghong Jeon: [@hollobit](https://www.joinclubhouse.com/@hollobit)
 
 ## 함께하면 좋은 club 
 * [Weekly arXiv 만담](https://github.com/jungwoo-ha/WeeklyArxivTalk) - [AI Korea club](https://www.joinclubhouse.com/club/ai-korea)
