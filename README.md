@@ -4,6 +4,17 @@
 부담없이 이야기할 수 있는 자리로 만들려고 하며, 매주 목요일 진행되는 agenda를 
 여기에서 공유해보고자 합니다. 
 
+* Moderator 
+  * 전종홍 (한국전자통신연구원 표준연구본부 책임연구원, [@hollobit](https://www.joinclubhouse.com/@hollobit))
+* Speaker
+  * 권인호 (동아대 의과대학 응급의학과 교수, [@ryan.gwon](https://www.joinclubhouse.com/@ryan.gwon))
+  * 김진성 (연세대 의과대학 방사선종양학교실 교수, [@jinsung](https://www.joinclubhouse.com/@jinsung))
+  * 김휘영 (연세대 의과대학 융합의학과 교수, [@astaria82](https://www.joinclubhouse.com/@astaria82))
+  * 윤주흥 (피츠버그 의과대학 교수, [@nekofoot](https://www.joinclubhouse.com/@nekofoot))
+  * 하정우 (네이버 CLOVA 이사, [@haydn-jw](https://www.joinclubhouse.com/@haydn-jw))
+  * 황보율 (국립암센터 갑상선암센터 내분비내과, 인공지능사업팀장, [@yulhwangbo](https://www.joinclubhouse.com/@yulhwangbo))
+  * 홍헬렌 (서울여대 소프트웨어공학과 교수, [@hlhong](https://www.joinclubhouse.com/@hlhong))
+
 좋은 제안이 있으면 언제든 pull request로 업데이트 해주세요
 
 * [2021/03/25 - 1st agenda](/20210325-1st-agenda.md) 
