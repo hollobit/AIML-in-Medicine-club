@@ -25,8 +25,9 @@
 매주 목요일 진행되는 agenda는 여기에서 공유하고 있습니다. 
 좋은 제안이 있으면 언제든 issue나 pull request로 업데이트 해주세요
 
-* [2021/03/25 - 1st agenda](/20210325-1st-agenda.md) 
+* [2021/04/08 - 3rd agenda](/20210408-3rd-agenda.md) 
 * [2021/04/01 - 2nd agenda](/20210401-2nd-agenda.md) 
+* [2021/03/25 - 1st agenda](/20210325-1st-agenda.md) 
 
 ## Club 소개 
 
