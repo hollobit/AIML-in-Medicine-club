@@ -25,10 +25,11 @@
 매주 목요일 진행되는 agenda는 여기에서 공유하고 있습니다. 
 좋은 제안이 있으면 언제든 issue나 pull request로 업데이트 해주세요
 
-* [2021/04/15 - 4th agenda](/20210415-4th-agenda.md) 
-* [2021/04/08 - 3rd agenda](/20210408-3rd-agenda.md) 
-* [2021/04/01 - 2nd agenda](/20210401-2nd-agenda.md) 
-* [2021/03/25 - 1st agenda](/20210325-1st-agenda.md) 
+* [2021/04/22 - 5th agenda : EP05 - 위험과 한계](/20210422-5th-agenda.md)
+* [2021/04/15 - 4th agenda : EP04 - 데이터 증강과 합성](/20210415-4th-agenda.md) 
+* [2021/04/08 - 3rd agenda : EP03 - 클친소 특집](/20210408-3rd-agenda.md) 
+* [2021/04/01 - 2nd agenda : EP02 - 만우절 특집 - 2035년 전망](/20210401-2nd-agenda.md) 
+* [2021/03/25 - 1st agenda : EP01 - 첫만담](/20210325-1st-agenda.md) 
 
 ## Club 소개 
 
