@@ -25,6 +25,7 @@
 매주 목요일 진행되는 agenda는 여기에서 공유하고 있습니다. 
 좋은 제안이 있으면 언제든 issue나 pull request로 업데이트 해주세요
 
+* [2021/05/20 - 9th agenda : EP08 - 정책과제2부](/20210520-9th-agenda.md) 
 * [2021/05/13 - 8th agenda : EP08 - 정책과제](/20210513-8th-agenda.md) 
 * [2021/05/06 - 7th agenda : EP07 - Vuno 특집](/20210506-7th-agenda.md) 
 * [2021/04/29 - 6th agenda : EP06 - 무물보](/20210429-6th-agenda.md)
