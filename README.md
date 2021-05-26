@@ -11,6 +11,9 @@
 국내외 소식, 개발/구현 이슈, 학술적/산업적 이슈들, 실제 의료인 및 소비자들과 공감하는 이슈들을 좀더 가볍게 논의할 수 있는 자리로 만들고자 하며, 
 매주(또는 격주) 목요일 저녁마다 특화된 주제와 형식을 만들수 있도록 다양한 시도들을 하며 계속 이어나갈 수 있도록 해보겠습니다. 
 
+다음 링크로 접속하시면 초대 없이 클럽하우스와 의료인공지능 클럽 가입도 가능하십니다.
+https://www.clubhouse.com/join/aiml-in-medicine/fvzQHLyQ
+
 * Moderator 
   * 전종홍 (한국전자통신연구원 표준연구본부 책임연구원, [@hollobit](https://www.joinclubhouse.com/@hollobit))
 * Speaker
