@@ -28,7 +28,7 @@ https://www.clubhouse.com/join/aiml-in-medicine/fvzQHLyQ
 매주 목요일 진행되는 agenda는 여기에서 공유하고 있습니다. 
 좋은 제안이 있으면 언제든 issue나 pull request로 업데이트 해주세요
 
-* 2021/06/03 - 10th agenda : EP10 - 데이터셋
+* [2021/06/03 - 10th agenda : EP10 - 데이터셋](/20210603-10th-agenda.md)
 * 2021/05/27 - 이번주는 국제표준 회의와 일정 중복으로 쉽니다. 다음주에 뵐께요 
 * [2021/05/20 - 9th agenda : EP09 - 정책과제2부](/20210520-9th-agenda.md) 
 * [2021/05/13 - 8th agenda : EP08 - 정책과제](/20210513-8th-agenda.md) 
