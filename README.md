@@ -28,6 +28,7 @@ https://www.clubhouse.com/join/aiml-in-medicine/fvzQHLyQ
 매주 목요일 진행되는 agenda는 여기에서 공유하고 있습니다. 
 좋은 제안이 있으면 언제든 issue나 pull request로 업데이트 해주세요
 
+* 2021/07/01 - 이번주는 모더레이터 사정으로 쉽니다 :) 
 * [2021/06/24 - 13th agenda : EP13 - 데이터중심](/20210624-13th-agenda.md)
 * [2021/06/17 - 12th agenda : EP12 - 데이터셋3](/20210617-12th-agenda.md)
 * [2021/06/10 - 11th agenda : EP11 - 데이터셋2](/20210610-11th-agenda.md)
